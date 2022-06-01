@@ -40,8 +40,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\Debug\pacMap.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
+    <Text Include="pacMap.txt" />
   </ItemGroup>
 </Project>
