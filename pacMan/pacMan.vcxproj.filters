@@ -39,4 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Debug\pacMap.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
