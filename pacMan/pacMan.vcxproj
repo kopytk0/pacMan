@@ -150,9 +150,9 @@
     <ClInclude Include="Player.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="pacMap.txt">
+    <CopyFileToFolders Include="pacMap.txt">
       <DeploymentContent>true</DeploymentContent>
-    </Text>
+    </CopyFileToFolders>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
